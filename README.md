@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Ashikur Rahaman 👋
 
-<!--
-**ashikur311/ashikur311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SQA Engineer | Computer Science Graduate (UIU)**
 
-Here are some ideas to get you started:
+A results-driven Software Quality Assurance Engineer dedicated to delivering reliable, high-quality software through end-to-end test automation, rigorous manual validation, and efficient database design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧪 Technical & Engineering Skills
+
+* **Quality Assurance:** Manual Testing, Test Automation, API Testing, Bug Tracking & Reporting, Test Case Design
+* **Programming & Web:** Python, JavaScript, PHP, HTML5, CSS3
+* **Databases:** MySQL, Relational Database Design, Query Optimization
+* **CS Core:** Data Structures & Algorithms (DSA), AI Fundamentals
+* **Key Strengths:** Technical Communication, Root-Cause Analysis, Cross-Functional Collaboration
+
+---
+
+### 📬 Connect With Me
+
+* 💼 **LinkedIn:** [ashikur-rahaman-ar](https://www.linkedin.com/in/ashikur-rahaman-ar)
+* 📧 **Email:** ashikur31169@gmail.com
+* 📍 **Location:** Bangladesh
